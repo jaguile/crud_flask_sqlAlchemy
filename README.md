@@ -12,4 +12,4 @@ Exemple d'ús d'sqlAlchemy amb sqlite. Referències:
 
 [Constrints in SQLAlchemy](https://docs.sqlalchemy.org/en/14/core/constraints.html)
 
-**SQLAlchemy** ñes una biblioteca **ORM** (*Object-Relational Mapper*) per a *Python*. O sigui, serveix per poder accedir a bases de dades SQL fent ús d'objectes que representen la base de dades.
+**SQLAlchemy** és una biblioteca **ORM** (*Object-Relational Mapper*) per a *Python*. S'accedeix a base de dades SQL fent ús d'objectes que representen aquesta base de dades. Representem el model de la base de dades amb objectes Python i accedem a ella a través d'aquests objectes. 
